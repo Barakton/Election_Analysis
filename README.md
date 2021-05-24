@@ -28,8 +28,8 @@ The analysis of the election show that:
   - Diana DeGette had 272,892 votes (73.8%)
 
 ## Election-Audit Summary
-With this program, you only need to make a few edits to the code to make this work for any Election! Some examples are
-- (![git1](https://user-images.githubusercontent.com/83259639/119295860-73ee4280-bc1d-11eb-90fc-5bfda7f4fc68.PNG)
+With this program, you only need to make a few edits to the code to make this work for any Election! Here are some suggestions on how to change your code.
+- ![git1](https://user-images.githubusercontent.com/83259639/119295860-73ee4280-bc1d-11eb-90fc-5bfda7f4fc68.PNG)
   - In this block of code, you can change the output to be f"Largest State Turnout: {largest_state}\n" If you want to use it in a Presidential Eleciton, as long as you change the following variables
     - largest_county_winner
     - county_results
