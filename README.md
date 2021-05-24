@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Project Overview
 A Colorado Board of Elections employee wanted us to make a program that will read a .csv file and output the following:
