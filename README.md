@@ -13,6 +13,6 @@ A Colorado Board of Elections employee wanted us to make a program that will rea
 ## Election-Audit Results
 The analysis of the election show that:
 - 369,711 votes were cast
--- Jefferson county had 38,855 votes (10.5%)
+  - Jefferson county had 38,855 votes (10.5%)
 - Denver county had 306,055 votes (73.8%)
 - Arapahoe county had 24,801 votes (6.7%)
